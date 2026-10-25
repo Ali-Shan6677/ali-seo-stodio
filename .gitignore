@@ -1,0 +1,5 @@
+node_modules/
+.DS_Store
+*.log
+# NOTE: assets/css/styles.css is NOT ignored on purpose.
+# GitHub Pages serves your files as-is, so the built CSS must be committed.
